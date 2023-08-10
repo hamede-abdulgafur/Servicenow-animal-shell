@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed3de79547e8f110df29c67d826d43a2" extends="sys_import_set_row" label="Beed CSV import" max_length="40" name="x_1102915_animal_0_ihub_import_06e967d147e8f110df29c67d826d43e8" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=type" label="type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

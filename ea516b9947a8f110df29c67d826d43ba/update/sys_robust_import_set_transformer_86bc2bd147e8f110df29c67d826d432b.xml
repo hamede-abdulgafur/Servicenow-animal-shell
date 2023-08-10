@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Beed CSV import</description>
+        <name>Beed CSV import_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="Beed CSV import_etl_ihub">42bc2bd147e8f110df29c67d826d4328</robust_transform_engine>
+        <source_table>x_1102915_animal_0_ihub_import_06e967d147e8f110df29c67d826d43e8</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:14:34</sys_created_on>
+        <sys_id>86bc2bd147e8f110df29c67d826d432b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beed CSV import_rte_ihub</sys_name>
+        <sys_package display_value="Animal Shelter Adoption " source="x_1102915_animal_0">ea516b9947a8f110df29c67d826d43ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption ">ea516b9947a8f110df29c67d826d43ba</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_86bc2bd147e8f110df29c67d826d432b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:14:34</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

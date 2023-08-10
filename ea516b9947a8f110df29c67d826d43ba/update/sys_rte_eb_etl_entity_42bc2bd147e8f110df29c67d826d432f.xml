@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Source_x_1102915_animal_0_ihub_import_06e967d147e8f110df29c67d826d43e8</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 19:14:34</sys_created_on>
+        <sys_id>42bc2bd147e8f110df29c67d826d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source_x_1102915_animal_0_ihub_import_06e967d147e8f110df29c67d826d43e8</sys_name>
+        <sys_package display_value="Animal Shelter Adoption " source="x_1102915_animal_0">ea516b9947a8f110df29c67d826d43ba</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Beed CSV import_etl_ihub">42bc2bd147e8f110df29c67d826d4328</sys_rte_eb_definition>
+        <sys_scope display_value="Animal Shelter Adoption ">ea516b9947a8f110df29c67d826d43ba</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_42bc2bd147e8f110df29c67d826d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 19:14:34</sys_updated_on>
+        <table>x_1102915_animal_0_ihub_import_06e967d147e8f110df29c67d826d43e8</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

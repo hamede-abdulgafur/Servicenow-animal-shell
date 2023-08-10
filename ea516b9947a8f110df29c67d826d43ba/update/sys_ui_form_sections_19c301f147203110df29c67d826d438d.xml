@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="19c301f147203110df29c67d826d438d" sys_domain="global" table="x_1102915_animal_0_animal" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-09 20:13:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dc301f147203110df29c67d826d4390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1102915_animal_0_animal" name="x_1102915_animal_0_animal" sys_domain="global" view="Default view">19c301f147203110df29c67d826d438d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1102915_animal_0_animal" sys_domain="global" view="Default view">1fe22bd14768f110df29c67d826d430c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-09 20:13:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-09 20:13:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dc301f147203110df29c67d826d4391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1102915_animal_0_animal" name="x_1102915_animal_0_animal" sys_domain="global" view="Default view">19c301f147203110df29c67d826d438d</sys_ui_form>
+            <sys_ui_section caption="Animal Description" display_value="Animal Description" name="x_1102915_animal_0_animal" sys_domain="global" view="Default view">91c301f147203110df29c67d826d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-09 20:13:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1102915_animal_0_animal</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-09 20:13:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19c301f147203110df29c67d826d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1102915_animal_0_animal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Animal Shelter Adoption " source="x_1102915_animal_0">ea516b9947a8f110df29c67d826d43ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Animal Shelter Adoption ">ea516b9947a8f110df29c67d826d43ba</sys_scope>
+            <sys_update_name>sys_ui_form_sections_19c301f147203110df29c67d826d438d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-09 20:13:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
